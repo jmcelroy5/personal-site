@@ -1,0 +1,14 @@
+<nav>
+  <div>
+    <a href="/">
+      <h1>¯\_(ツ)_/¯ i'm new here</h1>
+    </a>
+  </div>
+  <div class="nav-links">
+    {% for item in site.data.navbar %}
+      <a href="{{ item.link }}" {% if page.url == item.link %}class="nav-current"{% endif %}>
+        {{ item.name }}
+      </a>
+    {% endfor %}
+  </div>
+</nav>

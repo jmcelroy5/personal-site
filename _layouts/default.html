@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
+    {% feed_meta %}
+    {% seo %}
+  </head>
+  <body>
+    {% include navbar.html %}
+    {{ content }}
+  </body>
+  <footer>
+      <div>&copy; 2025 Jessica McElroy. All rights reserved.</div>
+      <div>
+        <a href="https://www.linkedin.com/in/jmcelroy5" target="_blank">
+          <img width="20px" src="{{ site.baseurl }}/assets/images/linkedin.jpg" alt="LinkedIn" />
+        </a>
+        <a href="https://www.goodreads.com/user/show/4710440-jessica-mcelroy" target="_blank">
+          <img width="20px" src="{{ site.baseurl }}/assets/images/goodreads.svg" alt="Goodreads" />
+        </a>
+        <a href="https://www.github.com/jmcelroy5" target="_blank">
+          <img width="20px" src="{{ site.baseurl }}/assets/images/github.svg" alt="Github" />
+        </a>
+      </div>
+    </div>
+  </footer>
+</html>
