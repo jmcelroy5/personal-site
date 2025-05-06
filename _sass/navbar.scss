@@ -1,0 +1,24 @@
+@use 'vars';
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid lightgrey;
+
+    h1 {
+        color: vars.$primary;
+    }
+    
+    .nav-links {
+        a:not(:last-child)  {
+            margin-right: 1rem;
+            
+        }
+        .nav-current {
+            color: vars.$primary;
+        }    
+    }
+}
+
+

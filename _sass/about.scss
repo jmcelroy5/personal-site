@@ -1,0 +1,25 @@
+.about {
+    display: flex;
+    align-items: center;
+    margin-top: 32px;
+
+    .about-pics {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .about-selfie {
+        width: 300px;
+        margin-right: 16px;
+        border-radius: 500px;
+    }
+
+    .about-nametag {
+        width: 150px;
+        margin: -50px auto;
+    }
+    
+    p {
+        margin: 0;
+    }
+}
