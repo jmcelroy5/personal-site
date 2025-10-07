@@ -25,7 +25,7 @@
     if (yearNum !== CUTOFF_YEAR) {
       prevYearBtn.style.display = 'block';
       prevYearBtn.addEventListener('click', () => {
-        window.location = `/reading/${yearNum - 1}`
+        window.location = `/reading?year=${yearNum - 1}`
 
       })
     } else {
@@ -35,7 +35,7 @@
     if (yearNum !== CURRENT_YEAR) {
       nextYearBtn.style.display = 'block';
       nextYearBtn.addEventListener('click', () => {
-        window.location = `/reading/${yearNum + 1}`
+        window.location = `/reading?year=${yearNum + 1}`
       })
     } else {
       nextYearBtn.disabled = true;
@@ -43,8 +43,8 @@
   }
 
   window.addEventListener('DOMContentLoaded', () => {
-    const path = window.location.pathname;
-    const yearStr = path.split('/').pop();
+    const urlParams = new URLSearchParams(window.location.search);
+    const yearStr = urlParams.get('year') || CURRENT_YEAR.toString();
     const yearNum = Number(yearStr);
 
     if (yearNum >= CUTOFF_YEAR) {
