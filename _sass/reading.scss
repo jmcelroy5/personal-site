@@ -1,4 +1,8 @@
+
+@use 'vars';
+
 .reading-list {
+  padding: 0;
   list-style-type: none;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
@@ -6,8 +10,6 @@
 }
 
 .reading-list-item {
-  // default overridden by JS 
-  // based on year filter
   display: none;
 }
 
@@ -33,11 +35,24 @@
 #year-nav {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
-button {
+#prev-year, #next-year {
   display: none;
   cursor: pointer;
   background-color: transparent;
   border: none;
+  color: vars.$primary;
+
+  min-height: 44px;
+  min-width: 44px; 
+  padding: 12px 16px;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+}
+
+#prev-year:focus, #next-year:focus {
+  outline: 2px solid #007AFF;
+  outline-offset: 2px;
 }

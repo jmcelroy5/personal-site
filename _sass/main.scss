@@ -7,6 +7,7 @@ body {
   max-width: 760px;
   padding: 2rem;
   margin: 0 auto;
+  color: vars.$text-regular;
 
   ::selection{
     background-color: vars.$primary;
@@ -16,12 +17,7 @@ body {
 
 p, ul, ol  {
   font-size: 16px;
-  color: vars.$text-regular;
   line-height: 1.6;
-}
-
-h1, h2, h3, h4 {
-  color: vars.$primary;
 }
 
 a {
@@ -60,8 +56,9 @@ a.btn:hover {
 
 footer {
   display: flex;
-  justify-content: space-between;
-  padding: .8em 0;
+  flex-direction: column;
+  align-items: center;
+  padding: 8px 0;
   color: vars.$text-muted;
   border-top: 1px solid lightgrey;
   margin-top: 100px;
@@ -69,4 +66,21 @@ footer {
   a:not(:last-of-type) {
     margin-right: 8px;
   }
+
+  .footer-icons {
+    margin-top: 8px;
+  }
 }
+
+
+@media (min-width: 500px) {
+  footer {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .footer-icons {
+    margin-top: 0;
+  }
+}
+
