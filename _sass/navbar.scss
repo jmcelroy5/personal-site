@@ -7,17 +7,19 @@ nav {
     border-bottom: 1px solid lightgrey;
 
     h1 {
-        color: vars.$primary;
+      color: vars.$primary;
     }
     
     .nav-links {
-        a:not(:last-child)  {
-            margin-right: 1rem;
-            
-        }
-        .nav-current {
-            color: vars.$primary;
-        }    
+      a:not(:last-child)  {
+        margin-right: 1rem;
+          
+      }
+      .nav-current {
+        color: vars.$primary;
+        padding: 0 0 2px;
+        border-bottom: 1px solid lightgrey;
+      }    
     }
 }
 

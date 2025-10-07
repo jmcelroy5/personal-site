@@ -3,66 +3,70 @@
 @import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
 
 body {
-    font-family: "Mulish", sans-serif;
-    max-width: 760px;
-    padding: 2rem;
-    margin: 0 auto;
+  font-family: "Mulish", sans-serif;
+  max-width: 760px;
+  padding: 2rem;
+  margin: 0 auto;
 
-    ::selection{
-        background-color: vars.$primary;
-        color: vars.$text-highlight;
-    }
+  ::selection{
+    background-color: vars.$primary;
+    color: vars.$text-highlight;
+  }
 }
 
-p, ul, ol {
-    font-size: 16px;
-    color: vars.$text-regular;
-    line-height: 1.6;
+p, ul, ol  {
+  font-size: 16px;
+  color: vars.$text-regular;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4 {
+  color: vars.$primary;
 }
 
 a {
-    text-decoration: none;
-    color: inherit;
-    -webkit-transition: color 250ms;
-    -moz-transition: color 250ms;
-    -o-transition: color 250ms;
-    transition: color 250ms;
+  text-decoration: none;
+  color: inherit;
+  -webkit-transition: color 250ms;
+  -moz-transition: color 250ms;
+  -o-transition: color 250ms;
+  transition: color 250ms;
 }
 
 p > a {
-    color: vars.$primary;
+  color: vars.$primary;
 }
 
 a:hover {
-    color: vars.$primary;
+  color: vars.$primary;
 }
 
 a.btn {
-    background-color: vars.$primary;
-    color: white;
-    border-radius: 2px;
-    border: 1.5px solid vars.$primary;
-    padding: .4em .8em;
-    -webkit-transition: color 250ms, background-color 250ms;
-    -moz-transition: color 250ms, background-color 250ms;;
-    -o-transition: color 250ms, background-color 250ms;;
-    transition: color 250ms, background-color 250ms;;
+  background-color: vars.$primary;
+  color: white;
+  border-radius: 2px;
+  border: 1.5px solid vars.$primary;
+  padding: .4em .8em;
+  -webkit-transition: color 250ms, background-color 250ms;
+  -moz-transition: color 250ms, background-color 250ms;;
+  -o-transition: color 250ms, background-color 250ms;;
+  transition: color 250ms, background-color 250ms;;
 }
 
 a.btn:hover {
-    color: vars.$primary;
-    background-color: white;
+  color: vars.$primary;
+  background-color: white;
 }
 
 footer {
-    display: flex;
-    justify-content: space-between;
-    padding: .8em 0;
-    color: vars.$text-muted;
-    border-top: 1px solid lightgrey;
-    margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+  padding: .8em 0;
+  color: vars.$text-muted;
+  border-top: 1px solid lightgrey;
+  margin-top: 100px;
 
-    a:not(:last-of-type) {
-        margin-right: 8px;
-    }
+  a:not(:last-of-type) {
+    margin-right: 8px;
+  }
 }
