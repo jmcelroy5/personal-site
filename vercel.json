@@ -1,0 +1,12 @@
+{
+  "buildCommand": "bundle exec jekyll build",
+  "outputDirectory": "_site",
+  "installCommand": "bundle install",
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/reading/(.*)",
+      "destination": "/reading/"
+    }
+  ]
+}
