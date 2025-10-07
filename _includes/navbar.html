@@ -6,7 +6,7 @@
   </div>
   <div class="nav-links">
     {% for item in site.data.navbar %}
-      <a href="{{ item.link }}" {% if page.url == item.link %}class="nav-current"{% endif %}>
+      <a href="{{ item.link }}" {% if page.url contains item.slug or page.url == "/" and item.slug == 'blog'%}class="nav-current"{% endif %}>
         {{ item.name }}
       </a>
     {% endfor %}

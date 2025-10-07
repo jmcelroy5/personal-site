@@ -1,0 +1,43 @@
+.reading-list {
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 20px;
+}
+
+.reading-list-item {
+  // default overridden by JS 
+  // based on year filter
+  display: none;
+}
+
+.book-img {
+  width: 150px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 2px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.book-title {
+  display: block;
+  text-decoration: none;
+}
+
+#year {
+  font-size: 26px;
+  text-align: center;
+  margin: 0 10px;
+}
+
+#year-nav {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  display: none;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+}

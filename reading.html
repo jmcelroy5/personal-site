@@ -1,0 +1,37 @@
+---
+layout: default
+title: Reading
+---
+<h1>Reading</h1>
+<p>
+  Reading is my happy place. This is a list of the books I've read in recent years. It's for myself to
+  be able to look back on them and for viewers to maybe discover something they want to read. I also 
+  <a href="https://www.goodreads.com/user/show/4710440-jessica-mcelroy" target="_blank">
+    track my reading on Goodreads
+  </a>
+  and occasionally feel moved to write a review there. Maintaining a digital bookshelf has made 
+  it easier for me to let go of physical books and share them more freely with friends or little 
+  libraries in the neighborhood. Get in touch if there's a book here you want to read, and maybe 
+  I'll have a copy to mail to you!
+</p>
+
+<div id="year-nav">
+  <button id="prev-year" aria-label="See books for previous year">&lt;</button>
+  <div id="year"></div>
+  <button id="next-year" aria-label="See books for next year">&gt;</button>
+</div>
+<div id="book-count"></div>
+
+<ul class="reading-list">
+  {% for book in site.data.books %}
+    {% if book.isbn %}
+      <li class="reading-list-item" data-year="{{ book.date_read | date: '%Y' }}">
+        <a href="https://www.goodreads.com/book/show/{{ book.goodreads_id }}/" target="_blank">
+          <img class="book-img" src="{{ site.baseurl }}/assets/images/book-covers/{{book.isbn}}.jpg" />
+        </a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<script src="{{ site.baseurl }}/assets/js/reading.js"></script>

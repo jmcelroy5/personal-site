@@ -11,13 +11,13 @@ carousels:
 
 For me this February marked one full year of journaling every single day. Prior to that I had a long but spotty history with journaling. As a teenager I would turn to my diary when I was overcome with big emotions. In my 20s I discovered those "one line a day" journals and managed to keep it up for several momths before I grew tired of it. In my early 30s I read [a book about bullet journaling](https://www.goodreads.com/book/show/39071691-the-bullet-journal-method) that inspired me, but I never managed to make it a habit.
 
-More recently I started seeing ads on social media for [Silk & Sonder](https://www.silkandsonder.com/), a monthly journal subscription service, and I was intrigued. The format and prompts are inspired by the bullet journaling method, as well as life coaching and positive psychology. It also has an accompanying app with daily prompts, a podcast, and a community forum, and virtual events.
+More recently I started seeing ads on social media for [Silk & Sonder](https://www.silkandsonder.com/), a monthly journal subscription service, and I was intrigued. The format and prompts are inspired by the bullet journaling method, as well as life coaching and positive psychology. It also has an accompanying app with daily prompts, a podcast, and a community forum.
 
 ### If you'd told me a year ago I'd still be using those journals today I'd be incredulous. 
 
-After all those fits and starts over the years how did I succeed in making it a daily habit with Silk & Sonder?
+After all those fits and starts over the years how did I succeed in making it a daily habit?
 
-Well, when I received my first journal in the mail I got off to a strong and enthusiastic start. It came with a card that had 21 lines to take notes on a 3-week "foundations course" they offer in the app. The course is made up of 5-minute daily podcasts by the S&S founder meant to introduce you to the various journal pages and exercises and to help you establish a routine. I relished listening to it with my coffee every morning.
+When I received my first journal in the mail I got off to a strong and enthusiastic start with the help of the 3-week "foundations course" in the Silk & Sonder app. The course is made up of 5-minute daily podcasts by the S&S founder meant to help you set up your journal, introducing the various pages and exercises. And not coincidentally, 3 weeks is how long you need to establish a new habit. I relished cozying up in a chair with my coffee and listening to the podcast every morning.
 
 In those early days I used all the features of the journal, which took a lot of time. I was spending an hour or two a day on journaling, which I carved out of my coffee time each morning before work and my reading time before bed. I knew I would eventually have to whittle down my routine to make it more sustainable, but I enjoyed riding the enthusiasm wave for a while.
 
@@ -97,4 +97,4 @@ The app also has Sonder Socials, virtual events for journaling in community. Fac
 
 ### Final Thoughts
 
-Silk and Sonder may not be the answer for everyone, The ultra femme aesthetic and emphasis on positive psychology may not be your jam. But journaling is a powerful tool I think anyone could  benefit from. It doesn't have to look any particular way. You could scribble on computer paper or a legal pad, buy a blank journal at the bookstore, try a different guided journal (just google "guided journal" to see a million options), type in the Notes app on yoor phone, or use a site like [750 words](https://750words.com/). All that matters is you're giving your brain a chance to breathe by externalizing some of the thoughts/plans that are swirling around in there.
+Silk and Sonder may not be the answer for everyone. The ultra femme aesthetic and emphasis on self-improvement and positive psychology may not be your jam. But journaling is a powerful tool I think anyone could  benefit from. It doesn't have to look any particular way. You could scribble on computer paper or a legal pad, buy a blank journal at the bookstore, try a different guided journal (just google "guided journal" to see a million options), type in the Notes app on your phone, or use a site like [750 words](https://750words.com/). All that matters is you're giving your brain a chance to breathe by externalizing some of the thoughts/plans that are swirling around in there.

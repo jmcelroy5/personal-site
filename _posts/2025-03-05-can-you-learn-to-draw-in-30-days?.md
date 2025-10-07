@@ -19,9 +19,7 @@ carousels:
         - image: /assets/images/drawing-lessons/25-castle-in-2pp.jpeg
 
 ---
-Back in September I was browsing my bookshelf and came across a dusty book I bought off the bargain table in Barnes in Noble 15 years ago. It was called [You Can Draw in 30 Days](https://bookshop.org/p/books/you-can-draw-in-30-days-the-fun-easy-way-to-learn-to-draw-in-one-month-or-less-mark-kistler/6464697).
-
-That enticing promise lured me to purchase the book, but in my initial half-hearted attempts I never got past the first few lessons.
+Back in September I was browsing my bookshelf and came across a dusty book I bought off the bargain table in Barnes in Noble 15 years ago. It was called [You Can Draw in 30 Days](https://bookshop.org/p/books/you-can-draw-in-30-days-the-fun-easy-way-to-learn-to-draw-in-one-month-or-less-mark-kistler/6464697). That enticing promise lured me to purchase the book, but in my initial half-hearted attempts I never got past the first few lessons.
 
 From a young age I absorbed the message that drawing is a talent some people are born with and others are not. Because drawing well didn't come easily to me I put myself in the latter category. Yet for a long time I've felt a nagging desire to draw. I love photography, and drawing seemed to promise an even more intimate and immersive way of capturing the world.
 
@@ -67,7 +65,7 @@ I did eventually break down and purchase a blending stump, because I was tired o
 
 {% include carousel.html height="75" unit="%" number="1" %}
 
-A more honest answer to the question is: Sort of? While the things you draw on Day 30 would astound your Day 1 self, your Day 30 self won't be satisfied to stop there. It's the right amount of time to surprise yourself and to inspire a journey. Your sights will be set even higher, and you'll be eager to close the gap between what you see and your attempts at representating it on paper.
+A more honest answer to the question is: Sort of? While the things you draw on Day 30 would astound your Day 1 self, your Day 30 self won't be satisfied. But it's the right amount of time to surprise yourself and to inspire a journey. Your sights will be set even higher, and you'll be eager to close the gap between what you see and your attempts at representating it on paper.
 
 As I turned the last page I felt a little lost about how to proceed. One shortcoming of the book is the relatively few prompts to draw objects from life. I still felt a little dependent on the book's guidance to break down a drawing step-by-step and not yet confident that I could draw anything I wanted to. I continued drawing regularly, but soon I found myself craving additional instruction and structure to keep up the momentum. 
 

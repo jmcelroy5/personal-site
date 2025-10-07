@@ -1,4 +1,9 @@
 - name: Blog
   link: /
+  slug: blog
 - name: About
-  link: /about.html
+  link: /about
+  slug: about
+- name: Reading
+  link: /reading/2025
+  slug: reading

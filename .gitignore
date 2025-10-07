@@ -1,2 +1,9 @@
 Gemfile.lock
 .DS_Store
+node_modules/
+.vscode/
+_site/
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+\ No newline at end of file
