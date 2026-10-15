@@ -104,6 +104,62 @@
   year_read: 2026
 
 -
+  goodreads_id: 25813942
+  title: "This Tender Land"
+  author: William Kent Krueger
+  isbn: 9781476749303
+  year_read: 2025
+
+-
+  goodreads_id: 125766468
+  title: "Escaping the Housing Trap: The Strong Towns Response to the Housing Crisis"
+  author: Charles L. Marohn Jr. and Daniel Herriges
+  isbn: 9781119984528
+  year_read: 2025
+
+-
+  goodreads_id: 36348525
+  title: "Severance"
+  author: Ling Ma
+  isbn: 9780374261597
+  year_read: 2025
+
+-
+  goodreads_id: 60784636
+  title: "All the Dangerous Things"
+  author: Stacy Willingham
+  isbn: 9781250803856
+  year_read: 2025
+
+-
+  goodreads_id: 59575939
+  title: "An Immense World: How Animal Senses Reveal the Hidden Realms Around Us"
+  author: Ed Yong
+  isbn: 9780593133231
+  year_read: 2025
+
+-
+  goodreads_id: 97412
+  title: "On the Shortness of Life"
+  author: Seneca
+  isbn: 9780141018812
+  year_read: 2025
+
+-
+  goodreads_id: 9820
+  title: "Crossing to Safety"
+  author: Wallace Stegner
+  isbn: 9780375759314
+  year_read: 2025
+
+-
+  goodreads_id: 63922274
+  title: "Go as a River"
+  author: Shelley Read
+  isbn: 9780385688772
+  year_read: 2025
+
+-
   goodreads_id: 208840291
   title: "The Serviceberry: Abundance and Reciprocity in the Natural World"
   author: Robin Wall Kimmerer
@@ -111,6 +167,13 @@
   number_of_pages: 120
   year_published: 2024
   date_read: 2025-09-06
+
+-
+  goodreads_id: 3
+  title: "Harry Potter and the Sorcerer\u2019s Stone"
+  author: J.K. Rowling
+  isbn: 9780590353427
+  year_read: 2025
 
 -
   goodreads_id: 9969571
@@ -140,15 +203,6 @@
   date_read: 2025-07-27
 
 -
-  goodreads_id: 33917107
-  title: "On Tyranny: Twenty Lessons from the Twentieth Century"
-  author: Timothy Snyder
-  isbn: 9780804190114
-  number_of_pages: 127
-  year_published: 2017
-  date_read: 2025-06-24
-
--
   goodreads_id: 42848412
   title: Heavy
   author: Kiese Laymon
@@ -158,13 +212,13 @@
   date_read: 2025-06-30
 
 -
-  goodreads_id: 38212124
-  title: "Nomadland: Surviving America in the Twenty-First Century"
-  author: Jessica Bruder
-  isbn: 9780393249316
-  number_of_pages: 288
-  year_published: 2018
-  date_read: 2025-06-19
+  goodreads_id: 33917107
+  title: "On Tyranny: Twenty Lessons from the Twentieth Century"
+  author: Timothy Snyder
+  isbn: 9780804190114
+  number_of_pages: 127
+  year_published: 2017
+  date_read: 2025-06-24
 
 -
   goodreads_id: 52592768
@@ -176,6 +230,15 @@
   date_read: 2025-06-18
 
 -
+  goodreads_id: 38212124
+  title: "Nomadland: Surviving America in the Twenty-First Century"
+  author: Jessica Bruder
+  isbn: 9780393249316
+  number_of_pages: 288
+  year_published: 2018
+  date_read: 2025-06-19
+
+-
   goodreads_id: 62919732
   title: Lady Tan’s Circle of Women
   author: Lisa See
@@ -183,6 +246,13 @@
   number_of_pages: 352
   year_published: 2023
   date_read: 2025-05-29
+
+-
+  goodreads_id: 5470
+  title: "1984"
+  author: George Orwell
+  isbn: 9780451524935
+  year_read: 2025
 
 -
   goodreads_id: 22822858
@@ -230,15 +300,6 @@
   date_read: 2025-02-24
 
 -
-  goodreads_id: 13330588
-  title: "Happy City: Transforming Our Lives Through Urban Design"
-  author: Charles Montgomery
-  isbn: 9780385669122
-  number_of_pages: 368
-  year_published: 2013
-  date_read: 2021-11-23
-
--
   goodreads_id: 205363955
   title: "Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts"
   author: Oliver Burkeman
@@ -248,13 +309,13 @@
   date_read: 2025-02-20
 
 -
-  goodreads_id: 3113980
-  title: "You Can Draw in 30 Days: The Fun, Easy Way to Learn to Draw in One Month or Less"
-  author: Mark Kistler
-  isbn: 9780738212418
-  number_of_pages: 256
-  year_published: 2011
-  date_read: 2024-12-31
+  goodreads_id: 13330588
+  title: "Happy City: Transforming Our Lives Through Urban Design"
+  author: Charles Montgomery
+  isbn: 9780385669122
+  number_of_pages: 368
+  year_published: 2013
+  date_read: 2025-02-20
 
 -
   goodreads_id: 61190352
@@ -273,6 +334,15 @@
   number_of_pages: 384
   year_published: 2022
   date_read: 2025-01-06
+
+-
+  goodreads_id: 3113980
+  title: "You Can Draw in 30 Days: The Fun, Easy Way to Learn to Draw in One Month or Less"
+  author: Mark Kistler
+  isbn: 9780738212418
+  number_of_pages: 256
+  year_published: 2011
+  date_read: 2024-12-31
 
 -
   goodreads_id: 60018575
