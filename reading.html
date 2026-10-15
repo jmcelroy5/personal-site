@@ -26,9 +26,13 @@ permalink: /reading
 <ul class="reading-list">
   {% for book in site.data.books %}
     {% if book.isbn %}
-      <li class="reading-list-item" data-year="{{ book.date_read | date: '%Y' }}">
+      {% assign year_read = book.year_read %}
+      {% unless year_read %}
+        {% assign year_read = book.date_read | date: '%Y' %}
+      {% endunless %}
+      <li class="reading-list-item" data-year="{{ year_read }}">
         <a href="https://www.goodreads.com/book/show/{{ book.goodreads_id }}/" target="_blank">
-          <img class="book-img" src="{{ site.baseurl }}/assets/images/book-covers/{{book.isbn}}.jpg" />
+          <img class="book-img" src="{{ site.baseurl }}/assets/images/book-covers/{{book.isbn}}.jpg" alt="{{ book.title | escape }} by {{ book.author | escape }}" />
         </a>
       </li>
     {% endif %}
