@@ -18,3 +18,11 @@
   height: 400px;
   object-fit: cover;
 }
+
+.post-inline-image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: contain;
+  margin: 24px auto;
+}
